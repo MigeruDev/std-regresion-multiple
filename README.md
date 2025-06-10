@@ -3,12 +3,12 @@
 Este repositorio presenta un análisis práctico de regresión múltiple, aplicando los conceptos y metodologías descritas en la fuente teórica de referencia para este ejercicio. El objetivo es ilustrar la construcción, evaluación e interpretación de un modelo de regresión lineal con un enfoque en el manejo de variables predictoras cualitativas (categóricas).
 
 ## Autores (Grupo 6)
-* [cite_start]**Sharl Narvet Noboa Terán** 
-* [cite_start]**Miguel Ángel Macías Narváez** 
-* [cite_start]**Erick Joel Zherdmant Cevallos** 
-* [cite_start]**Leonor Vera San Martín** 
-* [cite_start]**Fernando Manuel Guerrero** 
-* [cite_start]**René Esquivel** 
+* **Sharl Narvet Noboa Terán** 
+* **Miguel Ángel Macías Narváez** 
+* **Erick Joel Zherdmant Cevallos** 
+* **Leonor Vera San Martín** 
+* **Fernando Manuel Guerrero** 
+* **René Esquivel** 
 
 ## Contexto Teórico
 El desarrollo de este ejercicio se fundamenta en los conceptos del **Capítulo 11: Regresión Múltiple** del libro **"Estadística: Métodos y Aplicaciones" de Edwin Galindo; 2011; Prociencia Editores.**
